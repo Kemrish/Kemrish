@@ -1,7 +1,6 @@
 ### Hello World, I'm Kemeriya 👋
 
-### I am a Python Developer & Cloud Practitioner who is Passionate about 
-Crafting Innovative Solutions in Software Development and Cloud Computing.🌠
+### I am a Python Developer & Cloud Practitioner who is Passionate about  Crafting Innovative Solutions in Software Development and Cloud Computing.🌠
 
 - 🔭 I’m currently working on web developing
 - 🌱 I’m currently learning machine learning
