@@ -8,3 +8,5 @@
 - ⚡ Fun fact: I'm always open to work😍
   
 ### Contact me I'm always available😊
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kemeriya-major)
+
